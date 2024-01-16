@@ -12,6 +12,8 @@ graph LR;
 
 %% example comment
 a --> b
+c --> b
+b --> a
 
 ```
 
